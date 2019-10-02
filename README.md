@@ -1,4 +1,4 @@
-# CSN-221-Project
+# Dual Data Cache
 
 ## Abstract
 The Scalar Processors have a performance setback when it comes to Vector(Array) processing and other vector applications because of the Scalar processors limitation of processing single instruction at a time. The two most important reasons holding them back are: the use of same organization caching both spatial and temporal locality and the genrally implemented "eager" caching policy. This leads to the well known trade-off of designing caches with more number lines or implementing design which has large line size.
